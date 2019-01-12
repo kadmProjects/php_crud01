@@ -2,11 +2,12 @@
 <html>
 <head>
 	<title>PHP crud 01</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/app.css">
 </head>
 <body>
 	<h1>PHP crud 01</h1><hr/>
 	<p>This is first crud application using HTML, CSS, JavaScript, PHP with MySQL.</p>
-	<button>Add Movie</button>
+	<button class="btn btn-insert">Add Movie</button>
 	<table>
 		<caption>Movies Library</caption>
 		<thead>
