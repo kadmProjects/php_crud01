@@ -53,10 +53,12 @@ tr:hover {
 
 .btn-update {
 	background-color: #f26e0f;
+	padding: 5px;
 }
 
 .btn-delete {
 	background-color: #ff0202;
+	padding: 5px;
 }
 
 .btn-reset {
